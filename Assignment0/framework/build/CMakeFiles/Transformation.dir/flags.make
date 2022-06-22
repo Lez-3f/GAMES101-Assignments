@@ -6,5 +6,5 @@ CXX_FLAGS =
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/lez/games101/Assignment0/framework/EIGEN3_INCLUDE_DIR 
+CXX_INCLUDES = -I/home/lez/games101/PA/Assignment0/framework/EIGEN3_INCLUDE_DIR 
 

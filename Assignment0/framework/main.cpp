@@ -54,6 +54,13 @@ int main(){
     // TO DO: Define point P
     // TO DO: Define rotation matrix M
     // TO DO: M * P
-    Eigen::Vector3f P = 
+    Eigen::Vector3f P(2.0, 1.0, 1.0), Q;
+    Eigen::Matrix3f R_45, T_1_2, M;
+    R_45 << 1/sqrt(2), -1/sqrt(2), 0, 1/sqrt(2), 1/sqrt(2), 0, 0, 0, 1;
+    T_1_2 << 1, 0, 1, 0, 1, 2, 0, 0, 1;
+    M = T_1_2 * R_45;
+    Q = M * P;
+    std::cout << "Before Transform: P(\n" << P << ")" << std::endl; 
+    std::cout << "After Transform: Q(\n" << Q << ")" << std::endl; 
     return 0;
 }

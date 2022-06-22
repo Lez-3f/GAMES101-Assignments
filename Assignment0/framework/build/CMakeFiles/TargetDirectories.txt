@@ -1,3 +1,3 @@
-/home/lez/games101/Assignment0/framework/build/CMakeFiles/edit_cache.dir
-/home/lez/games101/Assignment0/framework/build/CMakeFiles/Transformation.dir
-/home/lez/games101/Assignment0/framework/build/CMakeFiles/rebuild_cache.dir
+/home/lez/games101/PA/Assignment0/framework/build/CMakeFiles/edit_cache.dir
+/home/lez/games101/PA/Assignment0/framework/build/CMakeFiles/Transformation.dir
+/home/lez/games101/PA/Assignment0/framework/build/CMakeFiles/rebuild_cache.dir

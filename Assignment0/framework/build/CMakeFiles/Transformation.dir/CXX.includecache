@@ -6,7 +6,7 @@
 
 #IncludeRegexTransform: 
 
-/home/lez/games101/Assignment0/framework/main.cpp
+/home/lez/games101/PA/Assignment0/framework/main.cpp
 cmath
 -
 eigen3/Eigen/Core

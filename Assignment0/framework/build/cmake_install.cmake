@@ -1,4 +1,4 @@
-# Install script for directory: /home/lez/games101/Assignment0/framework
+# Install script for directory: /home/lez/games101/PA/Assignment0/framework
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/lez/games101/Assignment0/framework/build/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/lez/games101/PA/Assignment0/framework/build/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")
